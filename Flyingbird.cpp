@@ -1,16 +1,5 @@
 /******************************************
-*
-* Official Name:  your full name as on university documents
-*
-* Call me: what you like to be called (optional)
-*
-* E-mail:  xzheng09@syr.edu
-*
-* Assignment:  Assignment 3
-*
 * Environment/Compiler:  XCode 15.4
-*
-* Date submitted:  March 19th, 2025
 *
 * Interactions:
 *                 North View: '1'
@@ -34,8 +23,6 @@
 *
 *                 Use NaiveColorPickingDemo.cpp as reference for color picking
 *******************************************/
-
-#include "Xiao_Lin_Zheng_Assignment3.hpp"
 
 #include <iostream>
 #ifdef __APPLE__
